@@ -48,3 +48,13 @@ Description: Mixer library for Simple DirectMedia Layer 1.2, development files
  .
  This package contains files needed if you wish to use the SDL mixer
  library in your own programs.
+
+Package: libsdl2-mixer-snapshot
+Architecture: all
+Section: utils
+Depends: ${misc:Depends}, libsdl2-mixer (= ${source:Version})
+Suggests: rzr
+Priority: extra
+Description: unreleased snapshot version
+ TODO: Remove on issue and upgrade libsdl2-mixer
+
