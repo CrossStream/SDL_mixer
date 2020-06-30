@@ -1,8 +1,12 @@
-libsdl2-mixer (2.0.4) UNRELEASED; urgency=medium
+libsdl2-mixer (0.2.0.4+173+g6f9413b-176) unstable; urgency=medium
 
+  [ Sam Lantinga ]
   * Updated to version 2.0.4
 
- -- Sam Lantinga <slouken@libsdl.org>  Fri, 26 Oct 2018 11:01:42 -0800
+  [ Philippe Coval ]
+  * debian: WIP: Release 0.2.0.4+173+g6f9413b-176 (snapshot)
+
+ -- Philippe Coval <rzr@users.sf.net>  Tue, 30 Jun 2020 17:59:12 +0200
 
 libsdl2-mixer (2.0.3) UNRELEASED; urgency=medium
 
